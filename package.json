@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-api",
+  "version": "1.0.0",
+  "description": "API for Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever start index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/a2441918/portfolio-api"
+  },
+  "author": "Arun Manohar Manoaharan",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.16.4"
+  }
+}

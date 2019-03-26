@@ -1,0 +1,397 @@
+{
+  "basics": {
+    "name": "Arun Manohar Manoharan",
+    "label": "Software Engineer",
+    "picture": "../../../images/profile.jpg",
+    "email": "arun.manohar@nyu.edu",
+    "phone": "+1 929-240-5612",
+    "website": "https://arun-manohar-resume.herokuapp.com",
+    "summary": "I am an outgoing and highly motivated young professional, looking to be involved in a creative endeavor. I have strong knowledge in working with various technologies like React.js, AngularJS, Node.js and Java. Last worked as a Senior Software Engineer at Fidelity Investments.",
+    "location": {
+      "postalCode": "21075",
+      "city": "Elkridge",
+      "countryCode": "United States of America",
+      "region": "Maryland"
+    },
+    "profiles": [
+      {
+        "network": "Phone",
+        "username": "",
+        "url": "tel:+19292405612"
+      },
+      {
+        "network": "Email",
+        "username": "arun.manohar@nyu.edu",
+        "url": "mailto:arun.manohar@nyu.edu"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "arunmanohar6",
+        "url": "https://www.linkedin.com/in/arunmanohar6"
+      },
+      {
+        "network": "GitHub",
+        "username": "a2441918",
+        "url": "https://github.com/a2441918"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Data Computer Corporation of America",
+      "position": "Senior Software Engineer",
+      "startDate": "2019-02-04",
+      "endDate": "Present",
+      "summary": "Columbia, Maryland",
+      "description": "The project is to create a financial application for the Medicaid and CHIP (Children's Health Insurance Program) to track the grants and allotments available. The focus of this program is to develop a single comprehensive system that will subsume the roles of both the MBES/CBES and IBNRS, along with other financial rudimentary processes, providing a platform for future enhancements, while supporting the necessary O&M requirements until MACFin is operational. MACFin is a new financial system that will consolidate five different smaller systems onto one technology platform. Through this project, we will be able to reduce the number of manual processes by offering states multiple pathways for submitting data, along with making improvements to the overall user interface.",
+      "highlights": [
+        "Use React.js with Redux to create the application.",
+        "Use React Router to navigate across different routes in the application.",
+        "Use SSR technique using Next.js to speed up the first page and allow web crawlers to track.",
+        "Use CMS Design System (design.cms.gov) to incorporate components.",
+        "Use Kendo React UI components for components not available through CMS Design System.",
+        "Make sure all components are 508 Compliant and accessible through screen-readers.",
+        "Use SCSS as opposed to CSS for a good styling design.",
+        "Use axios for handling API calls.",
+        "Use 3rd party utility libraries like Lodash and moment to make life simple.",
+        "Use jest with enzyme for unit testing."
+      ]
+    },
+    {
+      "company": "Fidelity Investments",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-04-21",
+      "endDate": "2018-12-20",
+      "summary": "Durham, North Carolina",
+      "description": "The project is to create a web application which allows managers to manage the job roles of people under them. Each job role has a specific set of defined accesses and multiple job roles may have a more similar match of accesses. The project is to identify these multiple job roles and scrutinize them to avoid duplicate accesses. The technical stack includes AngularJS, Pug.js, Node.js, Postgres and Angular 7.",
+      "highlights": [
+        "Enhanced application and added features using Angular.js and server-side templating engine – Pug.js.",
+        "Create new applications using Angular 6 and upgraded to Angular 7.",
+        "Use node.js as a backend API for defining routes. ",
+        "Connect Postgres to the application using express and pg middleware. ",
+        "Created a Jenkins workflow to create and run a build every sprint automatically. ",
+        "Create AWS instances to deploy application on the cloud. ",
+        "Use Highcharts and D3.js for dynamic data in the application in the form of charts. ",
+        "Use async/await to resolve promises. ",
+        "Implement a theme picker module to let the users change the theme of the application. ",
+        "Use RxJS for asynchronous callback using Observables. ",
+        "Unit testing by using Jest framework. ",
+        "Use Bitbucket for code review. ",
+        "Biweekly sprints with agile methodology."
+      ]
+    },
+    {
+      "company": "Fidelity Investments",
+      "position": "Senior Software Engineer",
+      "startDate": "2017-08-28",
+      "endDate": "2018-03-20",
+      "summary": "Cary, North Carolina",
+      "description": "The project is to create a web-based application which allows members of the audit team to check the servers and applications which are compliant for audit purposes. The whole application is an intranet application of Fidelity Investments and the technical stack includes AngularJS, Node.js, Oracle DB and ETL.",
+      "highlights": [
+        "Create the entire application using AngularJS.",
+        "Use node.js as a backend API for data fetching.",
+        "Connect Oracle DB to the application using express and node-oracledb middleware.",
+        "Webpack-ify the whole application to use SASS and a lot of cool other stuffs.",
+        "Use Bluebird Promise API to achieve promises.",
+        "Write queries and views to get data from the OracleDB and map the data to the UI",
+        "Use Ping Access as a SSO tool to enable the user to login to the application.",
+        "Created a Jenkins workflow to create and run a build every sprint automatically.",
+        "Write unit test cases and used Cypress.io for testing.",
+        "Use Bitbucket for code review.",
+        "Follow Agile methodology having sprints bi-weekly."
+      ]
+    },
+    {
+      "company": "Quick Base Inc.",
+      "position": "UI Engineer",
+      "website": "https://www.team.mercury.quickbase.com/components",
+      "startDate": "2017-03-20",
+      "endDate": "2017-08-24",
+      "summary": "Cambridge, Massachusetts",
+      "description": "The project is to create a web-based application which allows consumers to create their own application. The entire application is highly componentized and uses React.js with Redux on the client side, Node.js as a middleware and Java on the backend.",
+      "highlights": [
+        "Create the entire application using component-based frameworks like React.",
+        "Use Redux as a state management tool.",
+        "Rewrite many components as a visual reusable component to be used by other teams incorporating the same modal.",
+        "Built reusable components like Facets, Items Count, Pagination, Loader, etc. to be used by all teams.",
+        "Applied a multi-language bundle loader that enables the consumer to switch to multiple languages within the same app.",
+        "Implement animated components as a loader while the grid fetches data.",
+        "Created Evergage Analytics component for site-wide analytics to get the details about the logged-in user.",
+        "Use Bluebird Promise API to resolve promises.",
+        "Used SASS for styling components and followed a lot of semantic names.",
+        "Convert old code base from flux to redux and testing framework and corresponding test cases from Test-Utils to Jasmine-Enzyme.",
+        "Write unit test cases using Jasmine and Enzyme.",
+        "Use Karma as a test-runner to run my tests.",
+        "Use grunt to check code coverage.",
+        "Follow Agile methodology having sprints bi-weekly."
+      ]
+    },
+    {
+      "company": "American Express",
+      "position": "Web Programmer",
+      "website": "https://www.americanexpress.com/platinum",
+      "startDate": "2016-07-27",
+      "endDate": "2017-03-17",
+      "summary": "New York City, New York",
+      "description": "The project is to create a web-based application which allows managers to manage the job roles of people under them. Each job role has a specific set of defined accesses and multiple job roles may have a more similar match of accesses. The project is to identify these multiple job roles and scrutinize them to avoid duplicate accesses. The technical stack includes AngularJS, Pug.js, Node.js, Postgres and Angular 7.",
+      "highlights": [
+        "Re-design the application using React.js along with Redux framework.",
+        "Use webpack to combine the modules with dependencies and generate a single file to serve up as the main page.",
+        "Used node.js to serve as a middleware to host the application.",
+        "Created actions and reducers for state maintenance in the application and pass in data from the backend through the reducers to be served on the frontend.",
+        "Created charts using D3.js to show the credit spent by the customer.",
+        "Used Redux Thunk middleware to delay the dispatch of an action, or to dispatch only if a certain condition comes up.",
+        "Consumed REST calls from the backend using Express framework in Node to establish a connection between backend and frontend.",
+        "Migrated development server from WAS 6 to WAS 8.1 effectively. ",
+        "Develop test cases and followed Test Driven Development (TDD) methodology for unit test using Chai test framework with the Karma test runner. ",
+        "Migrated code from SVN to Git.",
+        "Worked closely with Adobe Analytics team to log page and user tracking.",
+        "Use Git for effectively managing the code changes.",
+        "Experience with Agile/Scrum methodology and practice in a multidisciplinary team."
+      ]
+    },
+    {
+      "company": "Marlabs Inc.",
+      "position": "Web Developer",
+      "website": "http://www.marlabs.com",
+      "startDate": "2016-02-08",
+      "endDate": "2016-07-22",
+      "summary": "Piscataway, New Jersey",
+      "description": "The project was to create a CRM tool which offers a quick and convenient way to update timesheets and raise tickets, if any.  Using this tool, employees will be able to update timesheets, raise artifacts and tickets. ",
+      "highlights": [
+        "Involved in creating a web based CRM application to enter the working hours and raise any tickets.",
+        "The application was a Single Page Application written in AngularJS to give a fast and fluidic appearance.",
+        "Created a working time calculator using React.js and integrated it into MVC using Redux Framework.",
+        "The application was created on the MEAN Stack Framework where a test server was created using Node.js with Express.js framework to check the single page application.",
+        "Tested the application using Jasmine along with Karma Test runner."
+      ]
+    },
+    {
+      "company": "Photraits Inc.",
+      "position": "Web Developer",
+      "website": "http://www.photraits.com",
+      "startDate": "2015-10-07",
+      "endDate": "2015-12-17",
+      "summary": "Coimbatore, India",
+      "description": "Photraits is an online E-commerce website where users can book photographers for different functions based upon their portfolio.",
+      "highlights": [
+        "Developed web pages using HTML5, CSS3, JavaScript and jQuery.",
+        "Created responsive web design using Bootstrap and CSS3 media queries.",
+        "Created and consumed RESTful API’s to connect frontend and backend.",
+        "The backend was written in PHP with Laravel framework.",
+        "Created login page and implemented scripts to fix cross-site vulnerability issue.",
+        "Developed test cases and performed unit testing using Jasmine."
+      ]
+    },
+    {
+      "company": "Nuware Technology Corp.",
+      "position": "Web Applications Developer Intern",
+      "website": "http://www.nuware.com/",
+      "startDate": "2015-05-27",
+      "endDate": "2015-08-19",
+      "summary": "Iselin, New Jersey",
+      "highlights": [
+        "Performed data analysis and provided recommendations to fix vulnerabilities in the systems.",
+        "Involved in creating JSS services to encrypt the data that is transferred through the LAN within the company.",
+        "Played key role in configuring and deploying Alienvault, a SIEM application that resulted in listing the vulnerabilities that an organization faces in the network.",
+        "Had hands on experience of many Vulnerability Assessment Tools like Splunk, Solarwinds, Nessus and SumoLogic and compared them to get a detailed information about the pros and cons.",
+        "Created a social networking platform based on Elgg for the company to enable developers around the world to collaborate for a project.",
+        "Created the webpage using AngularJS, HTML5, CSS3, JavaScript and Bootstrap.",
+        "Designed grids, tables and dropdowns for each module using Bootstrap.",
+        "Used middlewares like cookie-parser on Node.js to help implement session. Used Express framework on Node.js for quick development.",
+        "Created RESTful APIs in Node.js environment for the SPA to consume and test its navigation and functionality. This meant implementing the SPA using the MEAN (MongoDB, Express, AngularJS, Node.js) stack."
+      ]
+    },
+    {
+      "company": "C-Cubed Solutions Pvt. Limited",
+      "position": "Front End Developer",
+      "startDate": "2012-08-31",
+      "endDate": "2014-07-24",
+      "summary": "Coimbatore, India",
+      "highlights": [
+        "Worked closely with management team, internal and external clients to translate project requirements into interaction design and information architecture design.",
+        "Collaboratively translate functional requirement HTML, CSS/CSS2 and JavaScript.",
+        "Created clear, efficient forms entry using Bootstrap, CSS2 and JavaScript.",
+        "Developed a module to consume AJAX calls by using jQuery methods. ",
+        "Used JSON for transferring and storing data from server.",
+        "Used Bootstrap, JavaScript, jQuery to provide form design and user input validation.",
+        "Using jQuery and JavaScript for validating the input given to the user interface.",
+        "Using AJAX to request JSON data through third party REST APIs to acquire products data from server and display it in sorted order."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University Tandon School of Engineering",
+      "area": "MSc. in Electrical Engineering",
+      "studyType": "Masters",
+      "startDate": "2014-08-27",
+      "endDate": "2015-12-23",
+      "gpa": "3.33",
+      "summary": "Brooklyn, New York"
+    },
+    {
+      "institution": "Anna University",
+      "area": "BEng. in Electronics and communication Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2008-08-07",
+      "endDate": "2012-05-17",
+      "gpa": "7.37",
+      "summary": "Coimbatore, India"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Github Commits with Login",
+      "publisher": "Arun Manohar Manoharan",
+      "website": "https://nodejs-github-api.herokuapp.com",
+      "summary": "This is a simple login application where the user can register and login to this particular application to see the last 25 commits in nodejs Github repository. The commit # ending in a number are colored 'light-blue'."
+    },
+    {
+      "name": "Picture Puzzle",
+      "publisher": "Arun Manohar Manoharan",
+      "website": "https://picture-puzzle.herokuapp.com/",
+      "summary": "This is a picture puzzle game. The goal is to solve the puzzle before the time expires."
+    },
+    {
+      "name": "Barely Good Enough Encryption",
+      "publisher": "Arun Manohar Manoharan",
+      "website": "https://barely-good-enough-encryption.herokuapp.com/#/",
+      "summary": "This is a Single Page Application developed using AngularJS. The application shows Barely Good Enough Encryption which is a combination of two algorithms. The first algorithm prints the 1st character of each word while the second algorithm takes the length of the first word and prints the corresponding character from the second word onwards. If the length of the word is less than the length of the first word, a space is printed. "
+    },
+    {
+      "name": "Ten Substring Friendly",
+      "publisher": "Arun Manohar Manoharan",
+      "website": "https://ten-substring-friendly.herokuapp.com/",
+      "summary": "This is a simple application which lists out numbers forming a total of 10 with their digits within a specified value inputted to the user."
+    },
+    {
+      "name": "String Match Frequency - D3.js",
+      "publisher": "Arun Manohar Manoharan",
+      "website": "http://string-match-frequency-d3.herokuapp.com/index.html",
+      "summary": "This application takes into account the values entered in two input fields and gets the matching characters between them and shows the frequency in the form of a chart using D3.js"
+    },
+    {
+      "name": "Reduction and Comparison of PAPR values using different transforms in OFDM systems",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Minimized the PAPR for efficient transmission of signals with minimum consumption of power using orthogonal wavelets. Used Discrete Cosine Transform (DCT) and other orthogonal wavelets such as Haar, Coiflet, Daubechies, Symlet and Hadamard in this system along with ‘Companding’ theorem."
+    },
+    {
+      "name": "Electronic Guard for Blind using PIC 16F877A",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Ultrasonic transceiver coupled with PIC 16F877A to alert a person when an object lies or proceeds within a particular range helping blind people."
+    },
+    {
+      "name": "Temperature Detection and Alarm using PIC 16F877A",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Constructed PIC 16F877A with LM35 to measure the temperature and to signal an alarm if the temperature goes beyond or below a particular threshold."
+    },
+    {
+      "name": "Automatic Door Alarm using PIC 16F877A",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Designed a burglar alarm using PIC 16F877A and IR transceivers. When the IR path is broken or interrupted, an alarm fires."
+    },
+    {
+      "name": "Traffic Analysis using High Speed Networks",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Analyzed the packets of a TCP data traffic file based on average bit rate and payload sizes of the various packets. Developed a Python program based on Round robin algorithm to balance the traffic on the output ports and reduced the data congestion on the network. Resolved the issue of out-of-order delivery of packets in packet-based load balancing by building hash tables using md5 hashing algorithm."
+    },
+    {
+      "name": "Wireless communications - Design of a Digital Communication System",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Constructed a System-level design for a mobile wireless user terminal using block phase user algorithm (MATLAB, C). Designed a simulation reference system for GPCDH subject to Rician flat fading and a demodulator for this fading channel with QPSK modulation. Performed simulations to compare the performance of the systems and documented the results."
+    },
+    {
+      "name": "Data Networks Engineering",
+      "publisher": "Arun Manohar Manoharan",
+      "summary": "Familiarized with Cisco IOS and configuration of Cisco routers. Configured a multicast router and performed real time video streaming using Java Media Framework (RTP/RTCP and RTSP). Analyzed the captured RTP/RTCP packets using Wireshark."
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "React.js",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "AngularJS",
+      "level": "85",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "85",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "SCSS",
+      "level": "90",
+      "keywords": [
+        "programming"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "80",
+      "keywords": [
+        "programming"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Apurva Jani",
+      "company": "Fidelity Investments",
+      "reference": "apurva.jani@fmr.com"
+    },
+    {
+      "name": "Priyanka Thombre",
+      "company": "Fidelity Investments",
+      "reference": "t.priyanka@outlook.com"
+    },
+    {
+      "name": "Brandon Stookey",
+      "company": "Quick Base Inc.",
+      "reference": "bstookey@quickbase.com"
+    },
+    {
+      "name": "Gen Edwards",
+      "company": "Quick Base Inc.",
+      "reference": "gedwards@quickbase.com"
+    }
+  ]
+}
