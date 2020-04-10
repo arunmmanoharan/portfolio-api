@@ -19,7 +19,7 @@
     "forever": "^2.0.0"
   },
   "devDependencies": {
-    "@types/express": "^4.17.5",
+    "@types/express": "^4.17.6",
     "@types/node": "^13.11.1",
     "braces": "^3.0.2",
     "mixin-deep": "^2.0.1",
