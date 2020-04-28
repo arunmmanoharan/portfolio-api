@@ -4,8 +4,13 @@
   "description": "API for Portfolio",
   "main": "dist/index.js",
   "scripts": {
-    "start": "ts-node index.ts",
-    "dev": "nodemon -x ts-node index.ts"
+    "build-ts": "tsc",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "postinstall": "npm run build-ts",
+    "start": "npm run serve",
+    "serve": "node dist/server.js",
+    "watch-node": "nodemon dist/server.js",
+    "watch-ts": "tsc -w"
   },
   "repository": {
     "type": "git",
@@ -24,8 +29,11 @@
     "braces": "^3.0.2",
     "mixin-deep": "^2.0.1",
     "nodemon": "^2.0.3",
+    "prettier": "^2.0.5",
     "set-value": "^3.0.2",
     "ts-node": "^8.9.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0",
     "typescript": "^3.8.3"
   }
 }
