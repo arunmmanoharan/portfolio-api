@@ -14,10 +14,10 @@ app.use((req:Request, res:Response, next: NextFunction) => {
 
 app.get('/', async (req:Request, res:Response) => {
 	try {
-		const resumeJson = await require('./resume.json');
+		const resumeJson = await require('../resume.json');
 		res.send(resumeJson);
 	} catch (e) {
-		res.send(400);
+		res.sendStatus(400);
 	}
 });
 
