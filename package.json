@@ -13,7 +13,7 @@
   "author": "Arun Manohar Manoaharan",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^13.13.4",
+    "@types/node": "^13.13.5",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "forever": "^2.0.0",
