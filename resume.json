@@ -6,7 +6,7 @@
     "email": "arun.manohar@nyu.edu",
     "phone": "+1 929-240-5612",
     "website": "https://arun-manohar-resume.herokuapp.com",
-    "summary": "I am an outgoing and highly motivated young professional, looking to be involved in a creative endeavor. I have strong knowledge in working with various technologies like React.js, AngularJS, Node.js and Java. Last worked as a Senior Software Engineer at Fidelity Investments.",
+    "summary": "I am an outgoing and highly motivated young professional, looking to be involved in a creative endeavor. I have strong knowledge in working with various technologies like React.js, AngularJS, Angular9, Postgres, Node.js, Python and Java. Currently working as a Software Solutions Engineer at Trinity LifeSciences.",
     "location": {
       "postalCode": "21043",
       "city": "Ellicott City",
@@ -38,11 +38,32 @@
   },
   "work": [
     {
+      "company": "Trinity LifeSciences",
+      "position": "Software Solutions Engineer",
+      "startDate": "2019-03-01",
+      "endDate": "Present",
+      "location": "Waltham, Massachusetts",
+      "description": "",
+      "highlights": [
+        "Use React.js with Context API to create the application.",
+        "Entire application is written using typescript.",
+        "Use Blueprint.js as a component-based system to integrate components into the application.",
+        "Use react-adal as Azure Active Directory Library (ADAL) support for ReactJS.",
+        "Use local caching mechanism to cache GET requests.",
+        "Connect with Azure Storage Explorer to upload files and retrieve the files in the backend for validation.",
+        "Use Python with Flask as the backend to serve API data.",
+        "Use alembic and SQLAlchemy as a Database migration tool and to write SQL scripts.",
+        "Use C# as a Worker to parse, read and modify Excel files uploaded.",
+        "Use a S2S connection to transmit data across C# and Python services.",
+        "Use jest for unit testing."
+      ]
+    },
+    {
       "company": "Data Computer Corporation of America",
       "position": "Senior Software Engineer",
       "startDate": "2019-02-04",
-      "endDate": "Present",
-      "summary": "Columbia, Maryland",
+      "endDate": "2020-02-03",
+      "location": "Columbia, Maryland",
       "description": "The project is to create a financial application for the Medicaid and CHIP (Children's Health Insurance Program) to track the grants and allotments available. The focus of this program is to develop a single comprehensive system that will subsume the roles of both the MBES/CBES and IBNRS, along with other financial rudimentary processes, providing a platform for future enhancements, while supporting the necessary O&M requirements until MACFin is operational. MACFin is a new financial system that will consolidate five different smaller systems onto one technology platform. Through this project, we will be able to reduce the number of manual processes by offering states multiple pathways for submitting data, along with making improvements to the overall user interface.",
       "highlights": [
         "Use React.js with Redux to create the application.",
@@ -62,7 +83,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2018-04-21",
       "endDate": "2018-12-20",
-      "summary": "Durham, North Carolina",
+      "location": "Durham, North Carolina",
       "description": "The project is to create a web application which allows managers to manage the job roles of people under them. Each job role has a specific set of defined accesses and multiple job roles may have a more similar match of accesses. The project is to identify these multiple job roles and scrutinize them to avoid duplicate accesses. The technical stack includes AngularJS, Pug.js, Node.js, Postgres and Angular 7.",
       "highlights": [
         "Enhanced application and added features using Angular.js and server-side templating engine – Pug.js.",
@@ -85,7 +106,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2017-08-28",
       "endDate": "2018-03-20",
-      "summary": "Cary, North Carolina",
+      "location": "Cary, North Carolina",
       "description": "The project is to create a web-based application which allows members of the audit team to check the servers and applications which are compliant for audit purposes. The whole application is an intranet application of Fidelity Investments and the technical stack includes AngularJS, Node.js, Oracle DB and ETL.",
       "highlights": [
         "Create the entire application using AngularJS.",
@@ -107,7 +128,7 @@
       "website": "https://www.team.mercury.quickbase.com/components",
       "startDate": "2017-03-20",
       "endDate": "2017-08-24",
-      "summary": "Cambridge, Massachusetts",
+      "location": "Cambridge, Massachusetts",
       "description": "The project is to create a web-based application which allows consumers to create their own application. The entire application is highly componentized and uses React.js with Redux on the client side, Node.js as a middleware and Java on the backend.",
       "highlights": [
         "Create the entire application using component-based frameworks like React.",
@@ -132,7 +153,7 @@
       "website": "https://www.americanexpress.com/platinum",
       "startDate": "2016-07-27",
       "endDate": "2017-03-17",
-      "summary": "New York City, New York",
+      "location": "New York City, New York",
       "description": "The project is to create a web-based application which allows managers to manage the job roles of people under them. Each job role has a specific set of defined accesses and multiple job roles may have a more similar match of accesses. The project is to identify these multiple job roles and scrutinize them to avoid duplicate accesses. The technical stack includes AngularJS, Pug.js, Node.js, Postgres and Angular 7.",
       "highlights": [
         "Re-design the application using React.js along with Redux framework.",
@@ -156,7 +177,7 @@
       "website": "http://www.marlabs.com",
       "startDate": "2016-02-08",
       "endDate": "2016-07-22",
-      "summary": "Piscataway, New Jersey",
+      "location": "Piscataway, New Jersey",
       "description": "The project was to create a CRM tool which offers a quick and convenient way to update timesheets and raise tickets, if any.  Using this tool, employees will be able to update timesheets, raise artifacts and tickets. ",
       "highlights": [
         "Involved in creating a web based CRM application to enter the working hours and raise any tickets.",
@@ -172,7 +193,7 @@
       "website": "http://www.photraits.com",
       "startDate": "2015-10-07",
       "endDate": "2015-12-17",
-      "summary": "Coimbatore, India",
+      "location": "Coimbatore, India",
       "description": "Photraits is an online E-commerce website where users can book photographers for different functions based upon their portfolio.",
       "highlights": [
         "Developed web pages using HTML5, CSS3, JavaScript and jQuery.",
@@ -189,7 +210,7 @@
       "website": "http://www.nuware.com/",
       "startDate": "2015-05-27",
       "endDate": "2015-08-19",
-      "summary": "Iselin, New Jersey",
+      "location": "Iselin, New Jersey",
       "highlights": [
         "Performed data analysis and provided recommendations to fix vulnerabilities in the systems.",
         "Involved in creating JSS services to encrypt the data that is transferred through the LAN within the company.",
@@ -207,7 +228,7 @@
       "position": "Front End Developer",
       "startDate": "2012-08-31",
       "endDate": "2014-07-24",
-      "summary": "Coimbatore, India",
+      "location": "Coimbatore, India",
       "highlights": [
         "Worked closely with management team, internal and external clients to translate project requirements into interaction design and information architecture design.",
         "Collaboratively translate functional requirement HTML, CSS/CSS2 and JavaScript.",
@@ -311,68 +332,55 @@
     {
       "name": "JavaScript",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "React.js",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "Angular",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "AngularJS",
       "level": "85",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "Node.js",
       "level": "85",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "HTML5",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "CSS3",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "SCSS",
       "level": "90",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     },
     {
       "name": "AWS",
       "level": "80",
-      "keywords": [
-        "programming"
-      ]
+      "keywords": ["programming"]
     }
   ],
   "references": [
+    {
+      "name": "Anil Kadiri",
+      "company": "Data Computer Corporation of America",
+      "reference": "kadirimca@yahoo.com"
+    },
     {
       "name": "Apurva Jani",
       "company": "Fidelity Investments",
@@ -382,16 +390,6 @@
       "name": "Priyanka Thombre",
       "company": "Fidelity Investments",
       "reference": "t.priyanka@outlook.com"
-    },
-    {
-      "name": "Brandon Stookey",
-      "company": "Quick Base Inc.",
-      "reference": "bstookey@quickbase.com"
-    },
-    {
-      "name": "Gen Edwards",
-      "company": "Quick Base Inc.",
-      "reference": "gedwards@quickbase.com"
     }
   ]
 }
