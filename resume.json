@@ -6,12 +6,12 @@
     "email": "arun.manohar@nyu.edu",
     "phone": "+1 929-240-5612",
     "website": "https://arun-manohar-resume.herokuapp.com",
-    "summary": "I am an outgoing and highly motivated young professional, looking to be involved in a creative endeavor. I have strong knowledge in working with various technologies like React.js, AngularJS, Angular9, Postgres, Node.js, Python and Java. Currently working as a Software Solutions Engineer at Trinity LifeSciences.",
+    "summary": "I am an outgoing and highly motivated young professional, looking to be involved in a creative endeavor. I have strong knowledge in working with various technologies like React.js, AngularJS, Angular9, Postgres, Node.js, Python and Java. Currently working as a Senior Software Solutions Engineer at Trinity LifeSciences.",
     "location": {
-      "postalCode": "21043",
-      "city": "Ellicott City",
+      "postalCode": "74074",
+      "city": "Stillwater",
       "countryCode": "United States of America",
-      "region": "Maryland"
+      "region": "Oklahoma"
     },
     "profiles": [
       {
@@ -31,15 +31,15 @@
       },
       {
         "network": "GitHub",
-        "username": "a2441918",
-        "url": "https://github.com/a2441918"
+        "username": "arunmmanoharan",
+        "url": "https://github.com/arunmmanoharan"
       }
     ]
   },
   "work": [
     {
       "company": "Trinity LifeSciences",
-      "position": "Software Solutions Engineer",
+      "position": "Senior Software Solutions Engineer",
       "startDate": "2019-03-01",
       "endDate": "Present",
       "location": "Waltham, Massachusetts",
@@ -291,41 +291,6 @@
       "publisher": "Arun Manohar Manoharan",
       "website": "http://string-match-frequency-d3.herokuapp.com/index.html",
       "summary": "This application takes into account the values entered in two input fields and gets the matching characters between them and shows the frequency in the form of a chart using D3.js"
-    },
-    {
-      "name": "Reduction and Comparison of PAPR values using different transforms in OFDM systems",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Minimized the PAPR for efficient transmission of signals with minimum consumption of power using orthogonal wavelets. Used Discrete Cosine Transform (DCT) and other orthogonal wavelets such as Haar, Coiflet, Daubechies, Symlet and Hadamard in this system along with ‘Companding’ theorem."
-    },
-    {
-      "name": "Electronic Guard for Blind using PIC 16F877A",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Ultrasonic transceiver coupled with PIC 16F877A to alert a person when an object lies or proceeds within a particular range helping blind people."
-    },
-    {
-      "name": "Temperature Detection and Alarm using PIC 16F877A",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Constructed PIC 16F877A with LM35 to measure the temperature and to signal an alarm if the temperature goes beyond or below a particular threshold."
-    },
-    {
-      "name": "Automatic Door Alarm using PIC 16F877A",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Designed a burglar alarm using PIC 16F877A and IR transceivers. When the IR path is broken or interrupted, an alarm fires."
-    },
-    {
-      "name": "Traffic Analysis using High Speed Networks",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Analyzed the packets of a TCP data traffic file based on average bit rate and payload sizes of the various packets. Developed a Python program based on Round robin algorithm to balance the traffic on the output ports and reduced the data congestion on the network. Resolved the issue of out-of-order delivery of packets in packet-based load balancing by building hash tables using md5 hashing algorithm."
-    },
-    {
-      "name": "Wireless communications - Design of a Digital Communication System",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Constructed a System-level design for a mobile wireless user terminal using block phase user algorithm (MATLAB, C). Designed a simulation reference system for GPCDH subject to Rician flat fading and a demodulator for this fading channel with QPSK modulation. Performed simulations to compare the performance of the systems and documented the results."
-    },
-    {
-      "name": "Data Networks Engineering",
-      "publisher": "Arun Manohar Manoharan",
-      "summary": "Familiarized with Cisco IOS and configuration of Cisco routers. Configured a multicast router and performed real time video streaming using Java Media Framework (RTP/RTCP and RTSP). Analyzed the captured RTP/RTCP packets using Wireshark."
     }
   ],
   "skills": [
@@ -377,19 +342,19 @@
   ],
   "references": [
     {
-      "name": "Anil Kadiri",
-      "company": "Data Computer Corporation of America",
-      "reference": "kadirimca@yahoo.com"
+      "name": "Brendan Murphy",
+      "company": "Trinity LifeSciences",
+      "reference": "bmurphy@trinitylifesciences.com"
     },
     {
-      "name": "Apurva Jani",
-      "company": "Fidelity Investments",
-      "reference": "apurva.jani@fmr.com"
+      "name": "Ryan Beller",
+      "company": "Trinity LifeSciences",
+      "reference": "rbeller@trinitylifesciences.com"
     },
     {
-      "name": "Priyanka Thombre",
-      "company": "Fidelity Investments",
-      "reference": "t.priyanka@outlook.com"
+      "name": "Natarajan Mohan",
+      "company": "Trinity LifeSciences",
+      "reference": "nmohan@trinitylifesciences.com"
     }
   ]
 }
